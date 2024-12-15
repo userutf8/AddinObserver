@@ -1,0 +1,23 @@
+#control1 {
+    padding: 1em;
+    background-color: #ffffff;
+    border-color: #00B7C3;
+    border-width: 1pt;
+    border-style: solid;
+}
+
+#value1, #caption1 {
+    padding: 2pt;
+    color: #003a3e;
+    font-family: "Segoe UI Light", "Segoe WP Light", device-segoe-light, "Segoe WP Semilight", "Segoe UI", "Segoe WP", Segoe, Tahoma, Helvetica, Arial, sans-serif;
+    font-size: 24pt;
+    font-weight: bold;
+}
+
+#input1 {
+    width: 400pt;
+    padding: 2pt;
+    color: #008089;
+    font-family: "Segoe UI Light", "Segoe WP Light", device-segoe-light, "Segoe WP Semilight", "Segoe UI", "Segoe WP", Segoe, Tahoma, Helvetica, Arial, sans-serif;
+    font-size: 24pt;
+}

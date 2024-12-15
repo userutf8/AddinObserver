@@ -1,0 +1,3 @@
+ObserveDialogAppearance();
+CreateInput();
+EnableInput();
